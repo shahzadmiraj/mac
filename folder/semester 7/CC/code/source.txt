@@ -1,0 +1,20 @@
+asm 
+abcd1_+
+int main()
+{
+int num=0;
+num=2+3; 
+bool a1@@@ 
+delete 
+return 0;
+} 
+asm 
+abcd1_+
+int main()
+{
+int num=0;
+num=2+3; 
+bool a1@@@ 
+delete 
+return 0;
+} 
